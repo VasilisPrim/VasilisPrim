@@ -1,4 +1,15 @@
-### Hi there 👋
+## 👋 Hi there my name is Vasilis Primikyris
+
+     ### I am a Software Developer
+
+
+- 🌱 I’m currently learning React.js,Bash Shell and Git
+
+- 📫 How to reach me: bprimikiris@gmail.com
+
+
+
+
 
 <!--
 **VasilisPrim/VasilisPrim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
