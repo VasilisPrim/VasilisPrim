@@ -1,6 +1,6 @@
 ## 👋 Hi there my name is Vasilis Primikyris
 
-     ### I am a Software Developer
+ ### I am a Software Developer
 
 
 - 🌱 I’m currently learning React.js,Bash Shell and Git
